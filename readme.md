@@ -23,7 +23,6 @@ The following spaces are governed by the team:
 
 *   GitHub: [github.com/rehypejs](https://github.com/rehypejs)
 *   npm: [npmjs.com/~rehypejs](https://www.npmjs.com/org/rehypejs)
-*   Spectrum: [spectrum.chat/unified/rehype](https://spectrum.chat/unified/rehype)
 
 ## License
 
